@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+@font-face
+	{
+		font-family: "张海山锐线体简";
+	}
+body{margin: 0 auto; padding: 0; background: url(images/background.png); font-family:"张海山锐线体简"; width: 1360px;}
+div{margin: 0; padding: 0;}
+
+#top{width: 342px; height: 116px; background: url(images/Leejump.jpg); margin-left: 547px; margin-top: 23px;}
+
+#group{width: 500px; height: 42px; font-size: 160%; margin-left: 46%; margin-top: 48px;}
+#zane{width: 510px; height: 33px; font-size: 110%; margin-left: 35%;}
+#stiles{width: 580px; height: 33px; font-size: 110%; margin-left: 33%;}
+#zq{width: 500px; height: 50px; font-size: 110%; margin-left: 39%;}
+
+#gametopic{width: 500px; height: 50px; font-size: 160%; margin-left: 45%; margin-top: 16px;}
+#gtintro{width: 630px; height: 50px; font-size: 130%; margin-left: 27%;}
+
+#groupwork{width: 500px; height: 50px; font-size: 160%; margin-left: 39%; margin-top: 14px;}
+#gwintro1{width: 500px; height: 33px; font-size: 130%; margin-left: 32%;}
+#gwintro2{width: 500px; height: 33px; font-size: 130%; margin-left: 33%;}
+#gwintro3{width: 500px; height: 33px; font-size: 130%; margin-left: 45%;}
+
+#gamecontent{width: 700px; height: 33px; font-size: 160%; margin-left: 44%; margin-top: 27px;}
+
+#gametype{width: 500px; height: 33px; font-size: 130%; margin-left: 27%; margin-top: 19px;}
+#gameplay{width: 700px; height: 33px; font-size: 130%; margin-left: 27%;}
+#stablefloor{position: absolute; width: 72px; height: 34px; margin-left: 30%; margin-top: 173px;}
+#movingfloor{position: absolute; width: 72px; height: 34px; margin-left: 42%; margin-top: 167px;}
+#missingfloor{position: absolute; width: 72px; height: 34px; margin-left: 55%; margin-top: 161px;}
+#spring{position: absolute; width: 72px; height: 34px; margin-left: 69%; margin-top: 161px;}
+
+#gamegraph{width: 500px; height: 33px; font-size: 130%; margin-left: 27%; margin-top: 243px;}
+#start{width: 666px; height: 33px; font-size: 130%; margin-left: 30%;}
+#startpic{position: absolute; width: 189px; height: 161px; margin-left: 37%;}
+#playing{width: 666px; height: 33px; font-size: 130%; margin-left: 30%; margin-top: 500px;}
+#playingpic{position: absolute; width: 189px; height: 161px; margin-left: 37%; margin-top: 26px;}
+#down{width: 666px; height: 33px; font-size: 130%; margin-left: 30%; margin-top: 527px;}
+#downpic{position: absolute; width: 189px; height: 161px; margin-left: 37%; margin-top: 4px;}
+#gameover{width: 666px; height: 33px; font-size: 130%; margin-left: 30%; margin-top: 505px;}
+#gameoverpic{position: absolute; width: 189px; height: 161px; margin-left: 37%; margin-top: 4px;}
+
+#uml{width: 500px; height: 33px; font-size: 130%; margin-left: 27%; margin-top: 515px;}
+#umlintro{width: 666px; height: 33px; font-size: 130%; margin-left: 30%;}
+#umlpic{position: absolute; width: 189px; height: 161px; margin-left: 16%; margin-top: 16px;}
